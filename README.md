@@ -55,4 +55,5 @@ Part 2: Strongly Compressible Multiphase Flows."**
 
 ## License
 
-[License information to be added.]
+This project is licensed under the University of Illinois/NCSA
+Open Source License. See [LICENSE](LICENSE) for details.
